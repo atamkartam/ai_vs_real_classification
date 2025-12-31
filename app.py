@@ -171,7 +171,7 @@ if selected == "Beranda":
 
     col2.markdown("""
     <div class="metric-card">
-        <h2>🤖</h2>
+        <h2>🧠</h2>
         <h3>Algoritma</h3>
         <p>Random Forest</p>
     </div>
